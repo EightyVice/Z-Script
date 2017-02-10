@@ -7,4 +7,5 @@ First you need Visual Studio and .NET Framework 4.5.x or higher
 ## About.
 The Core and the basics of the script are built by: @Zeyad_Ahmed
 > There are some guys in Internet are saying VB.net is not good language , Dont belive them. It's the best.
->                                                                  **Zeyad Ahmed** *-The Creator of Z-Script.
+
+>                                                                  **Zeyad Ahmed** *-The Creator of Z-Script.*
