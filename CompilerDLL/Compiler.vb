@@ -32,12 +32,11 @@ Namespace zscriptcompiler
                     Dim sp() As String = line.Split("{")
                     StrVarVal = sp(1)
                     Name = sp(0).Replace("SetStr ", "")
-                    MsgBox(Name & " : " & StrVarVal)
                     Dim StrVar As New Dictionary(Of String, String)()
                     StrVar(Name) = StrVarVal  ' Set the value of the "variable"
 
                     StrVal = StrVar(Name)  ' Retrieve the value of the variable
-                    MsgBox(StrVal)
+
                 End If
                 'Getting the value of declared string ex. GetStr <Name> @ <Print Values
                 If line.Contains("GetStr ") Then
