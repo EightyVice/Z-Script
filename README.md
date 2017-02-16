@@ -20,7 +20,9 @@ Comment pls :v
 Write: Hello World
 ``
 
-## Variables [Under Development]
+## Variables
+
+**Strings**
 
 ``
  SetStr <name> { <value>
